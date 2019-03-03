@@ -31,14 +31,6 @@ python pythonSerialMonitor.py
 
 4. Since this program accesses COM ports you may increased privlidges to use this program. In Ubuntu you can create new rules for a specific device (recommended) or run as admin (not recommended).
 
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
 ## Authors
 
 * **Lesley Gushurst** - *Initial work* - [Volunteer Research Laboratories LLC](https://github.com/volunteerlabs)
