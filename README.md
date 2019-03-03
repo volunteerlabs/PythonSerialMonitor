@@ -4,6 +4,8 @@ This is a Serial Monitor written in Python. There are many like it, but this one
 
 This program by itself is not very different from many other serial monitor programs. It has been intentionally kept simple with a very open (MIT) license so that it can be taken apart and reused in other applications.
 
+![alt text](https://github.com/volunteerlabs/PythonSerialMonitor/images/serial_monitor.png)
+
 ## Installing
 
 1. Clone the Repository using:
