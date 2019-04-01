@@ -4,6 +4,8 @@ This is a Serial Monitor written in Python. There are many like it, but this one
 
 This program by itself is not very different from many other serial monitor programs. It has been intentionally kept simple with a very open (MIT) license so that it can be taken apart and reused in other applications.
 
+A .wxg file is also included in this repository which can be loaded and modified using WxGlade a very simple python GUI builder for WxPython.
+
 ![alt text](https://raw.githubusercontent.com/volunteerlabs/PythonSerialMonitor/master/images/serial_monitor.png)
 
 ## Installing
